@@ -135,6 +135,9 @@ project_structure/
 │   └── .htaccess                          → Protection d’accès (exemple) FR
 │                                          → Access restriction (example) EN
 ├── docs/
+│   ├── README.md                          → Documentation du projet (anonymisée) FR
+│   │                                      → Project documentation (anonymized) EN
+│   │ 
 │   └── README_BOT.md                      → Documentation technique (anonymisée) FR
 │                                          → Technical documentation (anonymized) EN
 │
