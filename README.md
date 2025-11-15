@@ -6,17 +6,6 @@
 
 **FR/EN — Technical Showcase (HTML/CSS/JS + Python/Flask)**
 
-Ce dépôt présente une **architecture de projet client entièrement anonymisée**, conçue et structurée par **Palks Studio**.  
-Il illustre la manière dont un projet complet peut être organisé, documenté et structuré techniquement, tout en respectant la confidentialité absolue du client.
-
-This repository provides a **fully anonymized client project structure**, designed and organized by **Palks Studio**.  
-It demonstrates how a full web platform can be architected and documented while maintaining complete client confidentiality.
-
-
-# Anonymized Client Web Project — Palks Studio  
-
-**FR/EN — Technical Showcase (HTML/CSS/JS + Python/Flask)**
-
 Ce dépôt présente une **architecture de projet client entièrement anonymisée**, conçue et structurée par **Palks Studio**.
 Il illustre la manière dont un projet complet peut être organisé, documenté et structuré techniquement, tout en respectant la confidentialité absolue du client.
 
