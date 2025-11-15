@@ -41,10 +41,8 @@ palks-client-project-anonymized/
 │   └── js/
 │       └── script.js
 │
-├── public_version/
-│       └── example_structure.txt
-│
-└── .gitignore
+└── public_version/
+        └── example_structure.txt
 ```
 
 
