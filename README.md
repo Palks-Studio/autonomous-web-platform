@@ -2,9 +2,11 @@
   <img src="docs/images/Palks_Studio.png" width="1200" alt="Palks Studio">
 </p>
 
-🇫🇷 Version française
+# 🇫🇷 Version française
 
-# Projet Web Client Anonymisé — Palks Studio
+---
+
+## Projet Web Client Anonymisé — Palks Studio
 
 **Présentation technique (HTML/CSS/JS + Python/Flask)**
 Ce dépôt présente une **architecture de projet client entièrement anonymisée**, conçue et structurée par **Palks Studio**.  
@@ -102,9 +104,11 @@ Pour protéger le projet client :
 
 ---
 
-🇬🇧 English version
+# 🇬🇧 English version
 
-# Anonymized Client Web Project — Palks Studio
+---
+
+## Anonymized Client Web Project — Palks Studio
 
 **Technical Showcase (HTML/CSS/JS + Python/Flask)**
 This repository provides a **fully anonymized client project structure**, designed and organized by **Palks Studio**.  
