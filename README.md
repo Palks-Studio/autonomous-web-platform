@@ -220,5 +220,4 @@ Simplicity, clarity, efficiency.
 - Gumroad: https://palks.gumroad.com  
 - Itch.io: http://palks-studio.itch.io  
 - Ko-fi: https://ko-fi.com/palksstudio  
-- Twitter (X): https://x.com/PalksStudio  
-- Discord: https://discord.gg/kzrSyThyZ7
+- Twitter (X): https://x.com/PalksStudio
