@@ -213,8 +213,7 @@ Resale, redistribution or public modification without permission is prohibited.
 Personal and professional use is allowed.
 
 **Palks Studio**
-Creator of useful and self-contained tools: scripts, templates and ready-to-use bases.
-Simplicity, clarity, efficiency.
+Independent creator of useful, autonomous digital tools.
 
 - GitHub: https://github.com/Palks-Studio  
 - Gumroad: https://palks.gumroad.com  
