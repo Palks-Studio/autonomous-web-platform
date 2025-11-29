@@ -6,9 +6,11 @@ All filenames, domains, assets, and business logic have been fully replaced to p
 
 ---
 
-## 1. Présentation générale — General Overview (FR/EN)
+## 🇫🇷 Version française
 
-### FR
+---
+
+## 1. Présentation générale
 
 Le projet original consistait en la conception d’une **plateforme web complète**, entièrement réalisée en HTML/CSS/JS côté frontend, et appuyée par un backend Python/Flask avec gestion interne des données via JSON.
 
@@ -22,7 +24,68 @@ Le but de cette documentation est de présenter :
 
 L’ensemble du contenu réel a été **retiré et anonymisé**, ne laissant qu’une architecture représentative.
 
-### EN
+---
+
+## 2. Structure globale
+
+L’arborescence complète est disponible ici :
+
+../public_version/example_structure.txt  
+
+Ce fichier fournit une version **entièrement anonymisée** (FR/EN) de l’architecture réelle du projet.  
+Il reflète la structure et la méthodologie utilisées sans divulguer le contenu original.
+
+---
+
+## 3. Frontend — HTML / CSS / JS
+
+Le frontend repose sur une approche **modulaire**, composée de :
+
+- pages HTML autonomes  
+- structure CSS centralisée  
+- scripts JavaScript segmentés (UI, interactions, carrousel, FAQ dynamiques)
+
+---
+
+## 4. Backend — Python / Flask
+
+Le backend repose sur :
+
+- une API Flask légère  
+- un fichier JSON interne servant de base de données locale  
+- un entrypoint WSGI compatible Passenger  
+- aucun framework externe lourd, pour une installation autonome
+
+---
+
+## 5. Documentation interne — Internal Documentation
+
+Le dossier `/docs` contient :
+
+- une documentation technique anonymisée  
+- un aperçu général du projet  
+- un logo et visuels internes liés à Palks Studio
+
+---
+
+## 6. Confidentialité — Confidentiality
+
+Ce dépôt ne contient :
+
+- aucun fichier client réel  
+- aucune donnée sensible  
+- aucun contenu original  
+- aucune logique métier réelle  
+
+Il sert uniquement de **vitrine technique**.
+
+---
+
+## 🇬🇧 English version
+
+---
+
+## 1. General Overview
 
 The original project involved building a **full web platform**, with a static HTML/CSS/JS frontend and a lightweight Python/Flask backend using JSON for internal data storage.
 
@@ -38,36 +101,18 @@ All real content has been **removed and anonymized**, keeping only a representat
 
 ---
 
-## 2. Structure globale — Global Structure (FR/EN)
+## 2. Global Structure
 
 The complete directory tree is available here:
 
-../public_version/example_structure.txt
+../public_version/example_structure.txt  
 
-
-### FR
-
-Ce fichier fournit une version **entièrement anonymisée** (FR/EN) de l’architecture réelle du projet.
-Il reflète la structure et la méthodologie utilisées sans divulguer le contenu original.
-
-### EN
-
-This file provides a **fully anonymized** (FR/EN) version of the real project architecture.
+This file provides a **fully anonymized** (FR/EN) version of the real project architecture.  
 It reflects the structure and development methodology while hiding any original client content.
 
 ---
 
 ## 3. Frontend — HTML / CSS / JS
-
-### FR
-
-Le frontend repose sur une approche **modulaire**, composée de :
-
-- pages HTML autonomes  
-- structure CSS centralisée  
-- scripts JavaScript segmentés (UI, interactions, carroussel, FAQ dynamiques)
-
-### EN
 
 The frontend follows a **modular approach**, built around:
 
@@ -79,17 +124,6 @@ The frontend follows a **modular approach**, built around:
 
 ## 4. Backend — Python / Flask
 
-### FR
-
-Le backend repose sur :
-
-- une API Flask légère  
-- un fichier JSON interne servant de base de données locale  
-- un entrypoint WSGI compatible Passenger  
-- aucun framework externe lourd, pour une installation autonome
-
-### EN
-
 The backend architecture includes:
 
 - a lightweight Flask API  
@@ -99,17 +133,7 @@ The backend architecture includes:
 
 ---
 
-## 5. Documentation interne — Internal Documentation
-
-### FR
-
-Le dossier `/docs` contient :
-
-- une documentation technique anonymisée  
-- un aperçu général du projet  
-- un logo et visuels internes liés à Palks Studio
-
-### EN
+## 5. Internal Documentation
 
 The `/docs` folder contains:
 
@@ -119,20 +143,7 @@ The `/docs` folder contains:
 
 ---
 
-## 6. Confidentialité — Confidentiality
-
-### FR
-
-Ce dépôt ne contient :
-
-- aucun fichier client réel  
-- aucune donnée sensible  
-- aucun contenu original  
-- aucune logique métier réelle  
-
-Il sert uniquement de **vitrine technique**.
-
-### EN
+## 6. Confidentiality
 
 This repository includes:
 
@@ -152,13 +163,10 @@ Resale, redistribution or public modification without permission is prohibited.
 Personal and professional use is allowed.
 
 **Palks Studio**
-Creator of useful and self-contained tools: scripts, templates and ready-to-use bases.
-Simplicity, clarity, efficiency.
+Independent creator of useful, autonomous digital tools.
 
 - GitHub: https://github.com/Palks-Studio  
 - Gumroad: https://palks.gumroad.com  
-- Discord: https://discord.gg/kzrSyThyZ7  
-- Twitter (X): https://x.com/PalksStudio  
 - Itch.io: http://palks-studio.itch.io  
-- Ko-Fi: https://ko-fi.com/palksstudio
-
+- Ko-fi: https://ko-fi.com/palksstudio  
+- Twitter (X): https://x.com/PalksStudio
