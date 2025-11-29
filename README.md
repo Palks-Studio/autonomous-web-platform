@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/Palks_Studio.png" width="1200" alt="Palks Studio">
+  <img src="docs/images/Palks_Studio.png" width="600" alt="Palks Studio">
 </p>
 
 # 🇫🇷 / 🇬🇧 Projet Web Client Anonymisé — Anonymized Client Web Project
