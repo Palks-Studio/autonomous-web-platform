@@ -391,3 +391,6 @@ is prohibited without prior written permission.
 
 Study, analysis, and inspiration for personal
 or professional purposes are permitted.
+
+© Palks Studio — 2025  
+- https://palks-studio.com
