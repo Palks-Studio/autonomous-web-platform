@@ -2,6 +2,8 @@
   <img src="docs/images/Palks_Studio.png" alt="Palks Studio" width="600">
 </p>
 
+![License](https://img.shields.io/badge/License-LICENSE_EN.md-lightgreen.svg)
+
 > 🇫🇷 Français | [🇬🇧 English](./README.md)
 
 # Présentation du projet
@@ -467,19 +469,7 @@ avec un minimum de maintenance et une surface d’attaque réduite.
 
 ---
 
-## Crédits et licence
+## Licence
 
-Ce projet est une création originale de **Palks Studio**.
-
-Le code, la structure et l’architecture présentés dans ce dépôt
-sont fournis à des fins de démonstration technique et de portfolio.
-
-Toute réutilisation directe, redistribution ou exploitation publique
-de tout ou partie de ce projet, sous quelque forme que ce soit,
-est interdite sans autorisation écrite préalable.
-
-L’étude, l’analyse et l’inspiration à des fins personnelles
-ou professionnelles sont autorisées.
-
-© Palks Studio — 2025  
+© Palks Studio — voir LICENSE_EN.md  
 - https://palks-studio.com
