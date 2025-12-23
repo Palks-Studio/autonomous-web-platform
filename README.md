@@ -4,7 +4,7 @@
 
 > 🇬🇧 English | [🇫🇷 Français](./README_FR.md)
 
-![License](https://img.shields.io/badge/License-LICENSE.txt-lightgreen.svg)
+![License](https://img.shields.io/badge/License-LICENSE_EN.md-lightgreen.svg)
 
 # Project Overview
 
