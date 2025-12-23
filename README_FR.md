@@ -4,8 +4,6 @@
 
 > 🇫🇷 Français | [🇬🇧 English](./README.md)
 
-![License](https://img.shields.io/badge/License-LICENCE_FR.md-lightgreen.svg)
-
 # Présentation du projet
 
 Ce dépôt présente l’architecture complète d’un site web orienté bien-être naturel,
