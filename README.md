@@ -53,7 +53,7 @@ Each subsystem is logically independent but interacts in a controlled manner wit
 project-root/
 │
 ├── README.md                      → General overview of the project and its architecture
-├── LICENSE.md                     → Terms of use and legal Framework
+├── LICENCE.md                     → Terms of use and legal Framework
 │
 ├── worker/
 │    ├── main.py                   → Worker entry point (cron / PHP trigger)
