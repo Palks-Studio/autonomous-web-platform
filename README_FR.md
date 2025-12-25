@@ -4,7 +4,7 @@
 
 > 🇫🇷 Français | [🇬🇧 English](./README.md)
 
-![License](https://img.shields.io/badge/License-LICENSE_EN.md-lightgreen.svg)
+![License](https://img.shields.io/badge/License-LICENSE.md-lightgreen.svg)
 
 # Présentation du projet
 
@@ -64,7 +64,7 @@ mais interagit de manière contrôlée avec les autres.
 project-root/
 │
 ├── README_FR.md                   → Présentation générale du projet et de son architecture
-├── LICENCE                        → Conditions d’utilisation et cadre juridique du projet
+├── LICENCE.md                     → Conditions d’utilisation et cadre légal
 │
 ├── worker/
 │    ├── main.py                   → Point d’entrée du worker (cron / déclencheur PHP)
@@ -469,7 +469,5 @@ avec un minimum de maintenance et une surface d’attaque réduite.
 
 ---
 
-## Licence
-
-© Palks Studio — voir LICENSE_EN.md  
+© Palks Studio — voir LICENSE.md  
 - https://palks-studio.com
