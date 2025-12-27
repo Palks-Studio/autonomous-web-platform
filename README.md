@@ -51,7 +51,7 @@ Each subsystem is logically independent but interacts in a controlled manner wit
 autonomous_web_platform/
 │
 ├── README.md                      → General overview of the project and its architecture
-├── LICENCE.md                     → Terms of use and legal framework
+├── LICENCE.md                     → Terms of use and legal Framework
 │
 ├── worker/
 │    ├── main.py                   → Worker entry point (cron / PHP trigger)
@@ -73,7 +73,6 @@ autonomous_web_platform/
 │        └── state.txt             → Runtime control / state file
 │
 ├── web/
-│    ├── endpoint_c.php            → Secure download entry point
 │    ├── state.txt                 → System control / state file
 │    ├── .htaccess                 → Access and security rules
 │    │
@@ -90,7 +89,6 @@ autonomous_web_platform/
 │        ├── data_c.json           → Download token registry
 │        ├── counter.json          → Invoice numbering counter
 │        ├── get_counter.php       → Next invoice number generation
-│        ├── update_counter.php    → Invoice counter update
 │        ├── lib_pdf.php           → PDF generation functions
 │        ├── lib_html.php          → HTML utility functions
 │        └── lib_counter.php       → Invoice counter functions
@@ -100,6 +98,7 @@ autonomous_web_platform/
      │   └── css/                  → Stylesheets (external optional)
      │
      ├── images/                   → Site images (logos and favicons included)
+     │   └── site.webmanifest      → Site web manifest
      │
      ├── pages/                    → HTML pages (articles and content)
      │   └── *.html
@@ -119,9 +118,9 @@ autonomous_web_platform/
      │
      ├── .htaccess                 → Main access rules
      │
+     ├── endpoint_c.php            → Secure download entry point
      ├── robots.txt                → Search engine indexing rules
      ├── sitemap.xml               → Sitemap for indexing
-     ├── site.webmanifest          → Site web manifest
      ├── endpoint_b.php            → Review form submission handler
      ├── data_a.json               → Temporary download tokens
      ├── index_hero.js             → Weekly content initialization script
