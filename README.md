@@ -109,6 +109,7 @@ autonomous_web_platform/
      │    ├── get_counter.php           → Next invoice number generation
      │    ├── lib_pdf.php               → PDF generation functions
      │    ├── lib_html.php              → HTML utility functions
+     │    ├── lib_mail.php              → Automated invoice email delivery
      │    └── lib_counter.php           → Invoice counter functions
      │
      ├── assets/
@@ -136,6 +137,7 @@ autonomous_web_platform/
      ├── .htaccess                      → Main access rules
      │
      ├── endpoint_c.php                 → Secure download entry point
+     ├── phpmailer.php                  → Email delivery library (SMTP)
      ├── robots.txt                     → Search engine indexing rules
      ├── sitemap.xml                    → Sitemap for indexing
      ├── endpoint_b.php                 → Review form submission handler
